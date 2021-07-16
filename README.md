@@ -31,7 +31,7 @@ import (
 	"ip_to_domain.go"
 )
 func main() {
-	a := ip_to_domain.Ip_domain(ip)//仅域名发查
+	a := ip_to_domain.Ip_domain(ip)//仅域名反查
 	//a := ip_to_domain.Ip_domain(ip,"n10")//最大输出10条域名数据
 	//a := ip_to_domain.Ip_domain(ip,"true","p443")//确定进行存活检测,并指定检测443端口
 	//a := ip_to_domain.Ip_domain(ip,true)//确定进行存活检测，支持正则
