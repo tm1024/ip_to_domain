@@ -5,9 +5,9 @@
 ```TEXT
 ├── README.md
 ├── imgaes                     //使用截图      
-	└── windwos_11.png
-	└── linux_ubuntu.png
-	└── macos_15.7.png
+│	└── windwos_11.png
+│	└── linux_ubuntu.png
+│	└── macos_15.7.png
 ├── Executable_file             //可执行文件
 │	└── ip_to_domain_windows.exe
 │	└── ip_to_domain
