@@ -38,6 +38,36 @@ func main() {
 	//a := ip_to_domain.Ip_domain(ip,"true","p8080","n50")//确定进行存活检测，指定检测8080端口，最大输出50条域名数据
 	fmt.Println(a)
 }
+
+输出格式例：
+{
+    "Ip":"1.1.1.1",
+    "Location":"",
+    "Isp":"",
+    "Org":"",
+    "Url_lists":[
+        "www.978bb.con",
+        "6h58.con",
+        "www.1314.con",
+        "www.qunsf.con",
+        "www.345.c",
+        "www.tszy.com.c",
+        "www25777.con",
+        "kejidiy.c",
+        "www.3344a.con",
+        "www.80pipi.con",
+        "www.0800encoder.com",
+        "222mimi.con",
+        "www.9ttt.con",
+        "www.q2002.con",
+        "www.191t.con",
+        "ggwhcxzg.c",
+        "www.zzg.gov.c",
+        "wwwjigongxuexiao.con",
+        "www.325dd.con",
+        "www.055i.con"
+    ]
+}
 ```
 
 #### 源码直接使用
